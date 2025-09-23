@@ -16,20 +16,20 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Bearbrick Pour Painting",
             desc: "Express yourself with our Bearbrick pour painting session! Use vibrant acrylics and pouring techniques to decorate your own Bearbrick collectible. Take home a unique art toy you designed.",
             images: [
-                "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+                "/img/bear2.jpg",
+                "/img/bear3.jpg",
+                "/img/bear4.jpg",
+                "/img/bear5.jpg"
             ]
         },
         neon: {
             title: "DIY Neon Sign",
             desc: "Light up your space! Design and assemble your own neon sign using flexible LED neon strips. Choose your favorite shapes, words, or icons. Perfect for gifts or room decor.",
             images: [
-                "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
-                "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+                "/img/neon2.jpg",
+                "/img/neon3.jpg",
+                "/img/neon4.jpg",
+                "/img/neon5.jpg"
             ]
         }
     };
@@ -39,10 +39,10 @@ document.addEventListener('DOMContentLoaded', function() {
         title: "Bulk Orders & Big Groups",
         desc: "We offer special packages and custom workshops for large groups and events. Perfect for corporate team building, weddings, birthdays, schools, and more! Get in touch for a tailored quote and unique experience.",
         images: [
-            "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-            "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80",
-            "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80",
-            "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=600&q=80"
+            "/img/bulk2.jpg",
+            "/img/bulk3.jpg",
+            "/img/bulk4.jpg",
+            "/img/bulk5.jpg"
         ],
         list: [
             "Corporate Team Building & Ice Breaking",
